@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">INTERFAZ_drg</string>
+    <string name="tv_titulo">Registro de usuario</string>
+    <string name="et_documento">Documento</string>
+    <string name="et_usuario">Usuario</string>
+    <string name="et_nombres">Nombres</string>
+    <string name="et_apellidos">Apellidos</string>
+    <string name="et_contra">Contraseña</string>
+    <string name="bt_registar">Registrar</string>
+    <string name="bt_buscar">Buscar</string>
+    <string name="bt_listar_registros">Listar</string>
+
+</resources>
